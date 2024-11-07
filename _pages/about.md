@@ -80,6 +80,7 @@ redirect_from:
 
 ### Projects
 [Eisenhower Planner](https://github.com/JoshSharland/EisenhowerPlanner)
+
 A planner that helps the user to prioritize tasks based off of urgency and importance.
 
 References available upon request.
