@@ -76,11 +76,9 @@ redirect_from:
 • Oracle Apex
 
 ### Certification
-
+• 1Z0-006 - Oracle Database Foundations
 
 ### Projects
 [Eisenhower Planner](https://github.com/JoshSharland/EisenhowerPlanner)
-• 1Z0-006 - Oracle Database Foundations
-
 
 References available upon request.
