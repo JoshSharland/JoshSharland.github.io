@@ -5,82 +5,103 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 
-# Joshua Sharland 
+# Joshua Sharland
 
 ## Contact Information
 
-| (443)-977-8656 |  joshuasharland@student.hcps.org |
+| (443) 977-8656 | jsharl2007@gmail.com |
+
+---
+
+## Security Clearance
+
+- **NSA Top Secret Security Clearance (T/S SCI)**  
+  Completed background investigation, polygraph, and psychological evaluation. Clearance can be activated on the first day of employment.
+
+---
 
 ## Experience
-• Summer Intern. RISE 2024 (DCAMS). Aberdeen Proving Ground. Aberdeen, Maryland. 
-7/8/2024-7/19/2024
 
-• Worked with professional engineers and scientists to complete result-oriented work to support the 
-  soldier using real world technology.
+**Summer Intern – RISE 2024 (DCAMS)**  
+C5ISR Center, Aberdeen Proving Ground, Aberdeen, Maryland  
+*07/08/2024 – 07/19/2024*  
+- Worked with engineers and scientists on technology solutions supporting U.S. soldiers.  
+- Gained real-world technical exposure and contributed to results-driven tasks.  
+- Participated in leadership development workshops.
 
-• Developed professional skills through a series of leadership workshops. 
-
+---
 
 ## Education
-• High School Student. Information Technology Oracle Academy (ITOA), Magnet Program. Havre de Grace 
-  High School. Havre de Grace, Maryland. Current cumulative GPA 4.56   <br>
-  09/2022 - Present.
 
-• Harford Community College
- <br> 8/26/24- Present
+**High School Student – Information Technology Oracle Academy (ITOA), Magnet Program**  
+Havre de Grace High School, Havre de Grace, MD  
+*09/2022 – Present*  
+- Weighted GPA: 4.56 (Rank: 5/217)  
+- Unweighted GPA: 4.0 (Rank: 1/217)
 
-### ITOA teaches 
-  • Object Oriented Programming through Java
-  
-  • Relational database design
-  
-  • SQL
+**Harford Community College (Dual Enrollment)**  
 
-### Courses
-• Java Fundamentals
+### Completed Courses  
+- Java Fundamentals *(Grade: A)*  
+- Java Foundations *(Grade: A)*  
+- Database Foundations *(Grade: A)*  
+- Database Design Program SQL *(Grade: A)*  
+- AP Computer Science Principles *(Grade: A, 4 on exam)*  
+- Honors Trigonometry *(Grade: A)*  
+- Honors Precalculus *(Grade: A)*  
+- Math 203 – Calculus I *(Grade: A)*  
+- Intro to Data Science 101 *(Grade: B)*  
 
-• Java Foundations
+### Current Courses  
+- AP Computer Science A  
 
-• AP Computer Science Principles
+### Program Curriculum  
+- Object Oriented Programming (Java)  
+- Relational Database Design  
+- SQL  
 
-• Database Foundations
-
-• Database Design Program SQL
-
-• AP Computer Science A (In progress)
-
-• AP Calculus AB (In Progress)
-
-• Intro To Data Science 101 (In progress at Harford Community College)
+---
 
 ## Skills & Abilities
-• Group Collaboration
 
-• Leadership
+- Java (3 years)  
+- SQL (2 years)  
+- Relational Database Design (2 years)  
+- Group Collaboration & Leadership  
+- Problem Solving & Critical Thinking  
+- Computer Hardware Assembly and Troubleshooting  
+- Microsoft Office Suite (Word, Excel, PowerPoint)  
+- Microsoft Teams, Webex, Zoom  
+- Eclipse, Visual Studio Code, RStudio  
+- Oracle APEX  
+- Draw.io  
+- Mechanically inclined  
 
-• Java (3 years)
+---
 
-• SQL (2 years)
+## Certification
 
-• Relational database design (2 years)
+- **Oracle 1Z0-006 – Oracle Database Foundations**  
+  *Highest score in my year at my school*
 
-• Problem Solving
+---
 
-• Excel
+## Projects
 
-• Eclipse and Visual Code Studio experience
+**[Eisenhower Planner](https://github.com/JoshSharland/EisenhowerPlanner)**  
+An application that helps users prioritize tasks based on urgency and importance.
 
-• Oracle Apex
+**[Welcome To](https://github.com/JoshSharland/clinicalInternship/tree/main/EasyAttendance)**  
+An application that allows the user to play the board game Welcome To on their pc.
 
-### Certification
-• 1Z0-006 - Oracle Database Foundations
+**[War](https://github.com/JoshSharland/clinicalInternship/tree/main/WarGame)**  
+A console application that allows the user to play single personblackjack.
 
-### Projects
-[Eisenhower Planner](https://github.com/JoshSharland/EisenhowerPlanner)
+**[Attendance Project](https://github.com/JoshSharland/clinicalInternship/tree/main/EasyAttendance)**  
+A application that allows the user to track students attendance on an A day B day schedule.
 
-A planner that helps the user to prioritize tasks based off of urgency and importance.
+---
 
-References available upon request.
+**References available upon request.**
