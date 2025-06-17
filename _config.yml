@@ -21,7 +21,7 @@ repository               : "JoshSharland/JoshSharland.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Josh Sharland"
   pronouns         : # example: "she/her"  
   bio              : "I'm a student at HDGHS in the ITOA program"
